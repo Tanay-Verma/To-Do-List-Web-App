@@ -1,9 +1,12 @@
 import './App.css';
+import Navbar from "./components/Navbar"
+import TodoForm from './components/TodoForm';
 
 function App() {
   return (
     <div className="App">
-      Hi There
+      <Navbar/>
+      <TodoForm/>
     </div>
   );
 }
