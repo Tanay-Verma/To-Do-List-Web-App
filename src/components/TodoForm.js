@@ -2,15 +2,13 @@ import React from 'react'
 import "../styles/TodoForm.css"
 
 export default function TodoForm() {
+  
   return (
     <div className='todoform'>
         <div>
-            <input placeholder='Your Task'/>
+            <input className='todoform--input' placeholder='Your Task'/>
         </div>
-        <div>
-            <textarea placeholder='Your description'/>
-        </div>
-        <button>Add Task</button>
+        <button className='todoform--btn'>Add Task</button>
     </div>
   )
 }

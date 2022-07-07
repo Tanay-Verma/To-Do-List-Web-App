@@ -21,7 +21,7 @@
 }
 
 .navbar--add{
-    font-size:15px;
+    font-size:1rem;
     width:8rem;
     height:3rem;
     border:none;
@@ -31,6 +31,7 @@
     border-radius: 0.5rem;
     box-shadow: 0px 10px 14px -7px #276873;
     background:linear-gradient(#599bb3, #408c99);
+    cursor: pointer;
 }
 
 .navbar--add:hover{
@@ -38,7 +39,7 @@
 }
 
 .navbar--clearAll{
-    font-size:15px;
+    font-size:1rem;
     width:8rem;
     height:3rem;
     border:none;
@@ -48,6 +49,7 @@
     border-radius: 0.5rem;
     box-shadow: 0px 10px 14px -7px #276873;
     background:linear-gradient(#599bb3, #408c99);
+    cursor: pointer;
 }
 
 .navbar--add:hover{

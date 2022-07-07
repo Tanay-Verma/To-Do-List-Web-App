@@ -1,10 +1,40 @@
 .todoform{
     position: fixed;
-    top:50%;
+    top:15%;
     left:50%;
-    background-color: aquamarine;
+    /* background-color: aquamarine; */
     display: flex;
-    flex-direction: column;
     transform: translate(-50%,-50%);
-    height: 40rem;
+    width: 40rem;
+    align-items: center;
+    border: solid;
+    border-width: 2px;
+    border-radius: 0.5rem;
+    box-shadow: -10px 10px 14px -7px #000a0c;
+}
+
+.todoform--input{
+    width: 30rem;
+    height: 3rem;
+    border: none;
+    border-radius: 0.5rem;
+    padding-left: 1rem;
+}
+
+.todoform--btn{
+    font-size:1rem;
+    width:10rem;
+    height:3rem;
+    border:none;
+    color:#fff;
+    border-color:#599bb3;
+    font-weight:bold;
+    border-radius: 0.5rem;
+    box-shadow: 0px 10px 14px -7px #276873;
+    background:linear-gradient(#599bb3, #408c99);
+    cursor: pointer;
+}
+
+.todoform--btn:hover{
+    background: linear-gradient(#408c99, #599bb3);
 }
