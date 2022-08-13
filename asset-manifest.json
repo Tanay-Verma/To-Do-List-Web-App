@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tanay-Verma/To-Do-List-Web-App/static/css/main.6a0e4bf3.css",
+    "main.js": "/Tanay-Verma/To-Do-List-Web-App/static/js/main.9b45d712.js",
+    "index.html": "/Tanay-Verma/To-Do-List-Web-App/index.html",
+    "main.6a0e4bf3.css.map": "/Tanay-Verma/To-Do-List-Web-App/static/css/main.6a0e4bf3.css.map",
+    "main.9b45d712.js.map": "/Tanay-Verma/To-Do-List-Web-App/static/js/main.9b45d712.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a0e4bf3.css",
+    "static/js/main.9b45d712.js"
+  ]
+}
