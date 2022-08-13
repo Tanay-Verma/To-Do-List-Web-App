@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/git%20To-Do-List-Web-App/static/css/main.6a0e4bf3.css",
-    "main.js": "/git%20To-Do-List-Web-App/static/js/main.9b45d712.js",
-    "index.html": "/git%20To-Do-List-Web-App/index.html",
-    "main.6a0e4bf3.css.map": "/git%20To-Do-List-Web-App/static/css/main.6a0e4bf3.css.map",
-    "main.9b45d712.js.map": "/git%20To-Do-List-Web-App/static/js/main.9b45d712.js.map"
+    "main.css": "/To-Do-List-Web-App/static/css/main.6a0e4bf3.css",
+    "main.js": "/To-Do-List-Web-App/static/js/main.9b45d712.js",
+    "index.html": "/To-Do-List-Web-App/index.html",
+    "main.6a0e4bf3.css.map": "/To-Do-List-Web-App/static/css/main.6a0e4bf3.css.map",
+    "main.9b45d712.js.map": "/To-Do-List-Web-App/static/js/main.9b45d712.js.map"
   },
   "entrypoints": [
     "static/css/main.6a0e4bf3.css",
